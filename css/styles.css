@@ -637,8 +637,8 @@ input[type='checkbox'] {
 }
 
 .navbar-custom .navbar-brand.logo-image img {
-    width: 6.6875rem;
-	height: 2.25rem;
+    width: 3.25;
+	height: 3.25rem;
 }
 
 .navbar-custom .navbar-brand.logo-text {
@@ -828,45 +828,45 @@ input[type='checkbox'] {
 	margin-bottom: 1.5rem;
 	margin-left: auto;
 	border-radius: 50%;
-	background-color: #ebe7fa;
+	/* background-color: #ebe7fa; */
 }
 
 .cards-1 .card-image .fas {
-	color: #aa7eec;
+	/* color: #aa7eec; */
 	font-size: 3.25rem;
 	line-height: 7.5rem;
 }
 
 .cards-1 .card-image.green {
-	background-color: #daf4ef;
+	/* background-color: #daf4ef; */
 }
 
 .cards-1 .card-image.green .fas {
-	color: #19ca94;
+	/* color: #19ca94; */
 }
 
 .cards-1 .card-image.red {
-	background-color: #f8e5ea;
+	/* background-color: #f8e5ea; */
 }
 
 .cards-1 .card-image.red .fas {
-	color: #ff556e;
+	/* color: #ff556e; */
 }
 
 .cards-1 .card-image.yellow {
-	background-color: #f8f1de;
+	/* background-color: #f8f1de; */
 }
 
 .cards-1 .card-image.yellow .fas {
-	color: #ffb30f;
+	/* color: #ffb30f; */
 }
 
 .cards-1 .card-image.blue {
-	background-color: #e1f2fa;
+	/* background-color: #e1f2fa; */
 }
 
 .cards-1 .card-image.blue .fas {
-	color: #50b9e8;
+	/* color: #50b9e8; */
 }
 
 .cards-1 .card-body {
@@ -1152,7 +1152,7 @@ input[type='checkbox'] {
 .slider {
 	padding-top: 8rem;
 	padding-bottom: 8rem;
-	background-color: #e8eff6;
+	background-color: #e8f1f6;
 }
 
 .slider .slider-container {
@@ -1257,7 +1257,7 @@ input[type='checkbox'] {
 .counter {
 	padding-top: 8rem;
 	padding-bottom: 5rem;
-	background-color: #e8eff6;
+	/* background-color: #e8eff6; */
 	text-align: center;
 }
 
@@ -2202,3 +2202,18 @@ a:hover.back-to-top {
 	/* end of extra pages */
 }
 /* end of min-width 1200px */
+
+#payai-detail{
+	height: 38rem;
+}
+
+#myVideo {
+	display: block;
+	justify-content: center;
+	  right: 0;
+	  bottom: 0;
+	  width:100%;
+	  height: 100%;
+	  align-self:center;
+	}
+	
